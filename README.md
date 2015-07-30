@@ -1,2 +1,2 @@
-# Test Gitbook
+# Test Git book
 test Git book
